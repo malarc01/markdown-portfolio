@@ -1,1 +1,10 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+
+:heart:
+_Full Stack Web Developer_
+# _Skills_
+
+## _Programming Languages_
+- Javascript
+- React
+- Node
+- Python 
